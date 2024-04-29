@@ -1,0 +1,10 @@
+fitz==0.0.1.dev2
+# langchain==0.1.16
+# pandas==2.2.2
+Pillow==10.3.0
+# protobuf==5.26.1
+# pytesseract==0.3.10
+# python-dotenv==1.0.1
+streamlit==1.31.1
+# streamlit_chat==0.1.1
+google-generativeai==0.3.2
