@@ -8,7 +8,7 @@ from pathlib import Path
 # import os
 
 # Configure Google API Key
-genai.configure(api_key="AIzaSyBtkn51M4i35dzxEQyRJl8dBE1JcDRourg")
+genai.configure(api_key="")
 
 # Set up the model
 generation_config = {
